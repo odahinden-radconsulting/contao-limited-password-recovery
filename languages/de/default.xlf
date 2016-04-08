@@ -3,7 +3,8 @@
     <file datatype="php" original="system/modules/contao-limited-password-recovery/languages/en/default.php" source-language="en" target-language="de">
         <body>
             <trans-unit id="MSC.passwort_reset_not_allowed">
-                <source>Mitgliedergruppe darf keine Passwort-Recovery durchführen</source>
+                <source>Membergroup not allowed to recover password</source>
+                <target>Mitgliedergruppe darf keine Passwort-Recovery durchführen</target>
             </trans-unit>
         </body>
     </file>

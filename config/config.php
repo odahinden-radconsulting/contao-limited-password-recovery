@@ -14,11 +14,5 @@
 /**
  * Front end modules
  */
-$GLOBALS['FE_MOD'] = array
-(
-    'user' => array
-    (
-        'lostPasswordLimitedAccess'   => 'ModulePasswordLimitedAccess',
-    )
-);
+$GLOBALS['FE_MOD']['user']['lostPasswordLimitedAccess'] = 'ModulePasswordLimitedAccess';
 

@@ -3,10 +3,12 @@
   <file datatype="php" original="system/modules/contao-limited-password-recovery/languages/en/tl_module.php" source-language="en" target-language="de">
     <body>
         <trans-unit id="FMD.lostPasswordLimitedAccess.0">
-            <source>Passwort verloren (Mitglieder eingeschränkt)</source>
+            <source>Password forgotten (Membergroup limited)</source>
+            <target>Passwort vergessen (Mitglieder eingeschränkt)</target>
         </trans-unit>
         <trans-unit id="FMD.lostPasswordLimitedAccess.1">
-            <source>Generiert eine Passwort-Recovery Formular das die Passwort-Recovery-Funktion auf einzelne Benutzergruppen einschränkt.</source>
+            <source>Generates a new password.</source>
+            <target>Generiert eine Passwort-Recovery Formular das die Passwort-Recovery-Funktion auf einzelne Benutzergruppen einschränkt.</target>
         </trans-unit>
     </body>
   </file>

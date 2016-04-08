@@ -3,7 +3,8 @@
   <file datatype="php" original="system/modules/contao-limited-password-recovery/languages/en/tl_module.php" source-language="en" target-language="de">
     <body>
         <trans-unit id="tl_module.limited_access_legend">
-            <source>Mitgliedergruppen einschränken</source>
+            <source>Membergroup limited</source>
+            <target>Mitgliedergruppen einschränken</target>
         </trans-unit>
     </body>
   </file>

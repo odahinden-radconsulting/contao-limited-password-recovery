@@ -3,7 +3,7 @@
   <file datatype="php" original="system/modules/contao-limited-password-recovery/languages/en/tl_module.php" source-language="en">
     <body>
         <trans-unit id="FMD.lostPasswordLimitedAccess.0">
-            <source>Password Recovery (Membergroup limited)</source>
+            <source>Password forgotten (Membergroup limited)</source>
         </trans-unit>
         <trans-unit id="FMD.lostPasswordLimitedAccess.1">
             <source>Generates a new password.</source>
