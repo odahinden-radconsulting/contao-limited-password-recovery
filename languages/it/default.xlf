@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <xliff version="1.1">
+    <file datatype="php" original="system/modules/contao-limited-password-recovery/languages/en/default.php" source-language="en" target-language="it">
+        <body>
+            <trans-unit id="MSC.passwort_reset_not_allowed">
+                <source>Membergroup not allowed to recover password</source>
+                <target>I membri del gruppo non possono eseguire la ricovery della password.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
